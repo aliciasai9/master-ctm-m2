@@ -251,7 +251,7 @@ $pageGraph = [
 <body>
   <header>
     <h1>Patrimoine mondial UNESCO en Afrique du Nord</h1>
-    <p class="subtitle">Page dynamique générée en PHP avec MySQLi à partir d’un corpus structuré.</p>
+    <p class="subtitle">Page dynamique en PHP avec MySQLi à partir d’un corpus structuré.</p>
     <form class="toolbar" method="get" action="">
       <label for="pays">Filtrer par pays :</label>
       <select id="pays" name="pays">
